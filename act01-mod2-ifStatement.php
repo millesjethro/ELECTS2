@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>
-            PHP Functions
+            OPERATOR and CONTROL STATMENTS
         </title>
     </head>
 <body>
